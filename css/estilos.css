@@ -1,0 +1,320 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#logoprincipal {
+	  max-width: 100%;
+    height: auto;
+   	width: auto; 
+	}
+#portada{
+	max-width: 100%;
+    	height: auto;
+   	 width: auto; 
+}
+body {
+	font-size: 13px;
+	font-family: 'Myriad', sans-serif;
+	background-image: url("../imagenes/fondo.png");
+	background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+	font-weight: bold;
+
+}
+.contenedor h1{
+	font-size: 2em;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	color:#ff0000;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+section{/*Pendiente*/
+	top:120px;
+	position:relative;
+	margin: 0 auto;
+	text-align:center;
+}
+
+.contenedor {
+	
+	background-image: url("../imagenes/fondo-blanco.png");
+	position: relative;
+	top:120px;
+	
+	width: 85%;
+	/*margin: auto;*/
+	
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto ;
+	padding-bottom:5%;
+	font-weight: bold;
+
+}
+.issuuembed{
+	position: relative;
+	top:150px;
+	left: 5px; 
+	
+	width: 90%;
+	margin: auto;
+	
+}
+
+.titulo {
+	font-weight: 300;
+	color: #27348A;
+	text-align: left;
+	
+	padding:25px;
+	padding-bottom:15px;
+	
+}
+
+.contenido article {
+
+	padding: 25px;
+	padding-top:15px;
+	
+	border-radius: 20px 20px 20px 20px;
+}
+
+.contenido h3 { /*Llaves */
+	font-size: 1em;
+	font-family: 'Myriad', sans-serif;
+	color: #27348A;
+	float:left;
+	font-weight: bold;
+
+}
+.contenido article a img{
+
+	margin-bottom: 25px;
+	color:#27348A;
+	margin-right:50px;
+
+}
+.contenido article p{
+color:#27348A;
+}
+.clientes{
+	height: 25%;
+   	width: 25%; 
+
+}
+
+div div #portada{
+	
+
+}
+/* --- Footer --- */
+footer {
+	background: #27348A;
+	color: #fff;
+	width: 100%;
+	height:60px;
+	position: relative;
+	top:360px;
+	
+	
+	
+	 
+}
+footer hr.border {
+	
+	width:100%;
+	height:8px;
+	border:none;
+	margin-bottom: 5px;
+	border-top: 2px solid #476b6b;
+	background: #fff;
+	border-bottom: 2px solid #476b6b;
+	/*margin-bottom: 5px; */
+	
+	margin-left:0%;
+	color:none;
+	
+	position:relative;
+	top:7px;
+}
+
+footer hr.border#fhr2 {
+	
+	width:100%;
+	height:5px;
+	border:none;
+	margin-bottom: 5px;
+	border-top: 2px solid #476b6b;
+	 background: #fff;
+	border-bottom: 2px solid #476b6b;
+	/*margin-bottom: 5px; */
+	
+	margin-left:0%;
+	color:none;
+	
+	position:relative;
+	top:5px;
+}
+
+footer p{
+	text-align: right;	
+	font-size: 14px;
+	background:  #27348A;
+	width:100%;
+	
+	margin: 0 auto;
+	margin-right:15%
+}
+/*
+.ocultar {
+		visibility: hidden;
+
+		
+	}
+
+	
+.contenedor:hover .ocultar{
+	visibility: visible;
+
+}*/
+
+.formulario {
+	background: #DD181C;
+	padding: 30px;
+	margin-bottom: 30px;
+}
+
+.formulario .form-group {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.formulario input[type="text"],
+.formulario input[type="email"],
+.formulario input[type="password"]{
+	padding: 15px;
+	font-family: 'Myriad', sans-serif;
+	font-size: 15px;
+	line-height: 18px;
+	border: none;
+	vertical-align: top;
+
+}
+
+.formulario select[class="profesion"]{
+	padding: 15px;
+	font-family: 'Myriad', sans-serif;
+	font-size: 15px;
+	line-height: 18px;
+	border: none;
+	vertical-align: top;
+
+}
+.formulario .icono {
+	padding: 15px;
+	text-align: center;
+	width: 48px;
+	max-height: 48px
+	font-size: 18px;
+	line-height: 18px;
+	background: #c8c8c8;
+	display: inline-block;
+	color:#6b6b6b;
+	vertical-align: top;
+}
+
+.formulario .icono.izquierda {
+	margin-right: 4px;
+	-webkit-border-radius: 3px 0 0 3px;
+	-moz-border-radius: 3px 0 0 3px;
+	-ms-border-radius: 3px 0 0 3px;
+	-o-border-radius: 3px 0 0 3px;
+	border-radius: 3px 0 0 3px;
+}
+.formulario .icono.izquierda.fa.fa-graduation-cap {
+	margin-right: -1px;
+	-webkit-border-radius: 3px 0 0 3px;
+	-moz-border-radius: 3px 0 0 3px;
+	-ms-border-radius: 3px 0 0 3px;
+	-o-border-radius: 3px 0 0 3px;
+	border-radius: 3px 0 0 3px;
+}
+
+.formulario .usuario,
+.formulario .password,
+.formulario .profesion  {
+	width: calc(100% - 52px);
+	-webkit-border-radius: 0 3px 3px 0;
+	-moz-border-radius: 0 3px 3px 0;
+	-ms-border-radius: 0 3px 3px 0;
+	-o-border-radius: 0 3px 3px 0;
+	border-radius: 0 3px 3px 0;
+}
+
+.formulario .password_btn {
+	width: calc(100% - 105px);
+}
+
+.formulario .error ul {
+	padding: 0 15px;
+	list-style-type:none;
+}
+
+.formulario .error ul li {
+	margin-bottom: 10px;	
+
+}
+
+.formulario .submit-btn {
+	padding: 15px;
+	text-align: center;
+	width: 48px;
+	max-height: 48px
+	font-size: 18px;
+	line-height: 18px;
+	background: #679863;
+	display: inline-block;
+	color:#fff;
+	background: #769766;
+	cursor: pointer;
+
+	-webkit-border-radius: 0 3px 3px 0;
+	-moz-border-radius: 0 3px 3px 0;
+	-ms-border-radius: 0 3px 3px 0;
+	-o-border-radius: 0 3px 3px 0;
+	border-radius: 0 3px 3px 0;
+}
+
+.texto-registrate {
+	text-align: center;
+	color:#000;
+}
+
+.texto-registrate a {
+	display: block;
+	font-size: 18px;
+}
+
+
+@media screen and (max-width: 800px) {
+	body {
+		margin:0;
+		padding:0;
+		position:relative;
+		top:-15px;
+	}
+
+
+
+}
