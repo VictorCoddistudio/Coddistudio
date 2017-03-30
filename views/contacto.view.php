@@ -6,10 +6,10 @@
 <?php require 'header.view.php' ?>
 <?php require 'menu.view.php' ?>
 
-	
+
 	<div class="contenedor">
-		<h1 class="titulo">CONTACTO</h1>
-		
+		<h1 class="titulo">Contáctanos</h1>
+
 	<div class="contenido wrap">
 		<form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
 			Nombre

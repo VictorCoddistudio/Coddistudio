@@ -4,11 +4,11 @@
 	 <title>CODDISTUDIO</title>
 <?php require 'header.view.php' ?>
 <?php require 'menu.view.php' ?>
-<div class="contenedor"> 
+<div class="contenedor">
 
 
 	<div class="contenido">
-		<h1 class="titulo">¿QUIÉNES SOMOS?</h1>
+		<h1 class="titulo">¿Quiénes somos?</h1>
 		<article>
 			<p>Somos un estudio especializado en el diseño, adaptándonos a la era digital, especificada al servicio de imagen corporativa de pequeñas y medianas empresas de la región noreste de Tamaulipas y del Valle de Texas, de México y Estados Unidos.</p>
 
@@ -18,6 +18,6 @@
 		</article>
 	</div>
 
-	
+
 </div>
 <?php require 'footer.view.php' ?>
