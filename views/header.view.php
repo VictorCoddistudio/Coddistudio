@@ -5,9 +5,11 @@
 	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
 	 <link rel="stylesheet" href="css/estilos.css"/>
 	 <link rel="stylesheet" href="css/menu.css"/>
+
 	<!-- <link rel="stylesheet" href="css/icons/iconos_redes.css">-->
 	 <script src="http://code.jquery.com/jquery-latest.js"></script>
 	 <script src="scripts/bootstrap.min.js"></script>
+	 <script src="scripts/bootstrap.js"></script>
 	</head>
 	 <body>
 	 <?php include_once("scripts/analyticstracking.php") ?>
