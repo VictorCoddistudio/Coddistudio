@@ -19,7 +19,10 @@
 
 				</div>
 				<div class="row">
-						<img src="imagenes/construction.png" title="EnConstruccion" alt="En Construcción" id="portada"  />
+						<img src="imagenes/constructionnobkg.png" class="img-rounded" title="EnConstruccion" alt="En Construcción"  />
+				</div>
+				<div class="row">
+						<img src="imagenes/construction.png" class="img-rounded" title="EnConstruccion" alt="En Construcción" />
 				</div>
 			</div>
 
