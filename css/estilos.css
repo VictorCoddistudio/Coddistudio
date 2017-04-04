@@ -46,10 +46,11 @@ section{/*Pendiente*/
 }
 
 .contenedor {
-
+	border-radius: 25px;
 	background-image: url("../imagenes/fondo-blanco.png");
 	position: relative;
 	top:120px;
+
 
 	width: 85%;
 	/*margin: auto;*/
@@ -74,11 +75,13 @@ section{/*Pendiente*/
 
 .titulo {
 	font-weight: 300;
-	color: #27348A;
+	color:#ffffff;/*;27348A;*/
+	background-color:#27348A;
 	text-align: left;
-
+	border-radius: 25px 25px 0px 0px;
 	padding:25px;
 	padding-bottom:15px;
+	 opacity: 0.7;
 
 }
 
@@ -179,14 +182,9 @@ footer p{
 /*
 .ocultar {
 		visibility: hidden;
-
-
 	}
-
-
 .contenedor:hover .ocultar{
 	visibility: visible;
-
 }*/
 
 .formulario {

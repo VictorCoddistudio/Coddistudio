@@ -1,31 +1,23 @@
 header {
-
-
 	/*border-top-width: 30px;
 	border-top-color: #fff;
 	border-top-style: solid;
 	top:0;
 	background: #DD181C;/*Rojo base*/
 	width:100%;
-
 	position: relative;
 	z-index:100;
 	font-family: 'Myriad', sans-serif;
-
 }
 
 header nav {
-
 	margin: auto;
 	/*float: left;*/
 	height: auto; /*Junto a overflow: hidden; aplicará a nuestro elemento nav el mismo alto que el más alto de sus elementos hijos */
     /*margin: 0 auto; /* Centro el contenedor */
-
     text-align: right;
     max-width:1000px;
     width: auto; /* Defino el ancho de mi página */
-
-
 }
 
 header nav ul {
@@ -35,19 +27,11 @@ header nav ul {
 	/*float: left;*/
 }
 hr.border {
-
-	width:75%;
 	border:none;
-	margin-bottom: 5px;
 	border-top: 2px solid #476b6b;
-
 	color:none;
-	margin-left:28%; /*change to 28, it was 25*/
-	position:relative;
-	/*top:15px  delete this*/
 }
 header nav ul li {
-
 	/*background: #DD181C;*/
 	display:inline-block;
 	position:relative;
@@ -72,7 +56,6 @@ header nav ul li a {
 	text-decoration:none;
 	padding: 10px;
     text-align: center;
-
 }
 
 header nav ul li a span {
@@ -155,167 +138,4 @@ header nav ul li .caret {
 	color:#fff;
 	text-decoration:none;
 	border-radius: 0px 0px 20px 20px;
-}
-
-/*
-Codigo de abajo para dispositivos pequeños
-
-*/
-@media screen and (max-width: 800px) {
-
-
-header{
-	height:70px	;
-	border-top:0px;
-	background:#27348A;
-	top:0px;
-}
-	/*#logoprincipal {
-	  width: 100%;
-	  height: 100%;
-	   max-width: 100%;
-    	height: auto;
-   	 width: auto/9;
-	}*/
-
-
-
-	#fondo {
-	  width: 100%;
-	  height: 100%;
-	}
-	.menu_bar {
-		display:block;
-		margin:  0 auto;
-		text-align: 0 center;
-		position: fixed;
-		margin-left:70px;
-		background: #DD181C;
-		top:15px;
-	}
-
-	.menu_bar .bt-menu {
-
-		display: block;
-		padding: 0px;
-		color: #fff;
-		overflow: hidden;
-		font-size: 25px;
-		font-weight: bold;
-		text-decoration: none;
-	}
-
-	.menu_bar span {
-		float: right;
-		font-size: 40px;
-	}
-	#mostrar-nav {
-	background: url("../imagenes/menu-icon.png");
-	cursor: pointer;
-	left: 2em;
-	height: 30px;
-	position: relative;
-	top: 20px;
-	width: 30px;
-	z-index: 1100;
-}
-	nav.mostrar {
-		left: 0;
-	}
-
-	header nav {
-		left: -25em;
-		width: 40%;
-		top:55px;
-		height: calc(100% - 40px);
-		background:#27348A;
-		position: fixed;
-		transition: all .5s;
-		margin: 0px;
-		overflow: scroll;
-
-	}
- 	header nav ul{
- 		margin-left:0px;
- 	}
-	header nav ul li {
-		width:100%;
-		top:0px;
-		display: block;
-
-		border-bottom:1px solid rgba(255,255,255,.5);
-		border-left:1px solid rgba(255,255,255,.5);
-		border-right:1px solid rgba(255,255,255,.5);
-		border-radius: 0px 0px 0px 0px;
-
-		transition: all .4s;
-		box-shadow: 3px 0 rgba(29, 112, 183,1) inset; /* Colores para la transicion iguales en Hexadecimal pero en RGB*/
-
-
-	}
-
-	header nav ul li a {
-		display: block;
-		border-radius: 0px 0px 0px 0px;
-		 text-align: left;
-		 margin-left:1px;
-		 color:#fff;
-
-	}
-
-
-	header nav ul li:hover {
-		box-shadow: 15em 0 rgba(29, 112, 183,1)  inset; /* Colores para la transicion iguales en Hexadecimal pero en RGB*/
-		background:none;
-	}
-
-	header nav ul li:hover .children {
-		display: none;
-	}
-
-	header nav ul li .children {
-		width: 100%;
-		position: relative;
-		top:0px;
-	}
-
-	header nav ul li .children li{
-		width:100%;
-		margin:0px;
-		display:block;
-		background:#023859;
-
-		border-radius: 0px 0px 0px 0px;
-
-	}
-		header nav ul li .children li:hover{
-		background: #27348A;
-
-
-	}
-	header nav ul li .children li a {
-
-		margin-left:0px;
-		width:100%;
-	}
-
-	header nav ul li .caret {
-		float: right;
-	}
-	footer {
-		display:none;
-	}
-	nav #logo{
-		display:none;
-	}
-	#logomini{
- 	display:visible;
- }
-
-
- .active a{ /*Resaltar posición en el menú*/
-	background:#1D70B7;
-	text-decoration:none;
-	border-radius: 0px 0px 0px 0px;
-}
 }
