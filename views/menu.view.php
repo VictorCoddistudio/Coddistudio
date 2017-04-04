@@ -1,8 +1,9 @@
 
 <header>
-		<div id="mostrar-nav"></div>
-		<div class="menu_bar"></div>
-		<nav>
+		<div class="container-fluid" id="mostrar-nav"></div>
+		<div class="menu_bar nav navbar-nav"></div>
+		<div class="container-fluid">
+		<nav class="navbar">
 			<ul>
 				<li class="submenu"> <a href="index.php">&nbsp; INICIO &nbsp;</a> </li>
 				<li class="submenu"> <a href="quienes.php">&nbsp; ¿QUIÉNES SOMOS? &nbsp;</a> </li>
