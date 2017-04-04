@@ -10,6 +10,8 @@
 	 <script src="http://code.jquery.com/jquery-latest.js"></script>
 	 <script src="scripts/bootstrap.min.js"></script>
 	 <script src="scripts/bootstrap.js"></script>
+	 <link rel="stylesheet" href="css/bootstrap.min.css" />
+	 <link rel="stylesheet" href="css/bootstrap-responsive.min.css" />
 	</head>
 	 <body>
 	 <?php include_once("scripts/analyticstracking.php") ?>

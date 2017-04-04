@@ -42,9 +42,9 @@ hr.border {
 	border-top: 2px solid #476b6b;
 
 	color:none;
-	margin-left:25%; /*change to 28*/
+	margin-left:28%; /*change to 28, it was 25*/
 	position:relative;
-	top:15px /* delete this*/
+	/*top:15px  delete this*/
 }
 header nav ul li {
 
