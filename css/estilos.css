@@ -114,10 +114,6 @@ color:#27348A;
 
 }
 
-div div #portada{
-
-
-}
 /* --- Footer --- */
 footer {
 	background: #27348A;
@@ -302,7 +298,7 @@ footer p{
 }
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
 	body {
 		margin:0;
 		padding:0;
