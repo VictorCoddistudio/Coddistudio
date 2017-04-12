@@ -8,10 +8,9 @@
 
 	<!-- <link rel="stylesheet" href="css/icons/iconos_redes.css">-->
 	 <script src="http://code.jquery.com/jquery-latest.js"></script>
-	 <script src="scripts/bootstrap.min.js"></script>
-	 <script src="scripts/bootstrap.js"></script>
-	 <link rel="stylesheet" href="css/bootstrap.min.css" />
-	 <link rel="stylesheet" href="css/bootstrap-responsive.min.css" />
+	 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	 <link rel="stylesheet" href="css/menu.css"/>
 	</head>
 	 <body>
 	 <?php include_once("scripts/analyticstracking.php") ?>
