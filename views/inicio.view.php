@@ -5,10 +5,9 @@
 <?php include 'header.view.php'; ?>
 <?php include 'menu.view.php'; ?>
  <section >
-		<div class="contenido">
-		
+		<div class="container">
 			<img src="imagenes/logocoddistudioportada.png" title="Coddistudio" alt="Coddistudio" id="portada"  />
-	
+
 		</div>
 
 </section>

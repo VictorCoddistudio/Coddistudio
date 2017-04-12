@@ -161,7 +161,7 @@ header nav ul li .caret {
 Codigo de abajo para dispositivos pequeños
 
 */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
 
 
 header{
