@@ -54,11 +54,8 @@ color:#27348A;
 	height: 80%;
   width: 	80%;
 }
-
-<<<<<<< HEAD
-=======
 /* --- Footer --- */
->>>>>>> 8ce835df7bdb439cc28204ab5d3eed06c769b862
+
 footer {
 	background: #27348A;
 	color: #fff;
@@ -102,22 +99,14 @@ footer p{
 	margin-right:15%
 }
 
-
-
-<<<<<<< HEAD
 @media screen and (max-width: 800px) {
 body {
-=======
-@media screen and (max-width: 768px) {
-	body {
->>>>>>> 8ce835df7bdb439cc28204ab5d3eed06c769b862
 		margin:0;
 		padding:0;
 		position:relative;
 		top:-15px;
 	}
-	footer {
-
+footer {
 		top:10px;
 	}
 
