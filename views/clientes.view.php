@@ -23,7 +23,7 @@
 
 			<div class="row">
 				<div class="col-sm-4">
- 					<a href="https://www.facebook.com/gasdematamoros" target="_blank" ><img src="imagenes/clientes/logo_gas_de matamoross-01.png" title="Gas de Matamoros" alt="Gas de Matamoros" class="clientes" /> </a>
+ 					<a href="https://www.facebook.com/gasdematamoros" target="_blank" ><img src="imagenes/clientes/logo_gas_de matamoros-01.png" title="Gas de Matamoros" alt="Gas de Matamoros" class="clientes" /> </a>
 				</div>
 				<div class="col-sm-4">
  					<a href="https://www.facebook.com/TecnicopiasMatamoros" target="_blank" ><img src="imagenes/clientes/logo_tecnicopias.png" title="Tecnicopias" alt="Tecnicopias" class="clientes" /> </a>
