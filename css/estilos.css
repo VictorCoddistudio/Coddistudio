@@ -41,9 +41,7 @@ section{/*Pendiente*/
 	padding-bottom:15px;
   opacity: 0.7;
 }
-div a img:hover, div img:hover {
-	background-color:#c3c9ee;
-}
+
 .contenido article {
 	padding: 15px;
 }
