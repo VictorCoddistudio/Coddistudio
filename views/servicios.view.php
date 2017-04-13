@@ -5,8 +5,6 @@
 <?php require 'header.view.php' ?>
 <?php require 'menu.view.php' ?>
 <div class="contenedor">
-
-
 	<div class="contenido">
 		<h1 class="titulo">Nuestros Servicios</h1>
 		<!--<h3>{</h3><h3>}</h3>-->
