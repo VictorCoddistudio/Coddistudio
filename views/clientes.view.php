@@ -5,55 +5,57 @@
 <?php require 'header.view.php' ?>
 <?php require 'menu.view.php' ?>
 <div class="contenedor">
-
-
 <div class="contenido">
 	<h1 class="titulo">Nuestros Clientes</h1>
 	<article>
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="imagenes/clientes/idealcar-auto-center.png" title="Ideal Car" alt="Ideal Carl" class="clientes"  />
+					<a href="https://www.facebook.com/Idealcar-auto-center-113583875448821/" target="_blank"> <img src="imagenes/clientes/idealcar-auto-center.png" title="Ideal Car" alt="Ideal Carl" class="clientes"  /> </a>
 				</div>
 				<div class="col-sm-4">
 					<a href="http://www.somosmecatronica.com" target="_blank"><img src="imagenes/clientes/somos-mecatronica.png" title="Somos Mecatrónica" alt="Somos Mecatrónica" class="clientes" /> </a>
 				</div>
 				<div class="col-sm-4">
-					<a href="#" ><img src="imagenes/clientes/genesis-papeleria.png" title="Génesis Papeleria" alt="Génesis Papeleria" class="clientes" /> </a>
-				</div>
-		</div>
-			<div class="row">
-				<div class="col-sm-4">
- 					<a href="#" ><img src="imagenes/clientes/centro-de-idiomas-del-tec-de-monterrey.png" title="Centro de Idiomas del Tecnológico  de Monterrey" alt="Centro de Idiomas del Tecnológico  de Monterrey" class="clientes" /> </a>
-				</div>
-				<div class="col-sm-4">
- 					<a href="#" ><img src="imagenes/clientes/educacion-ejecutiva-del-tecnologico-de-monterrey.png" title="Educación Ejecutiva del Tecnológico de Monterrey" alt="Educación Ejecutiva del Tecnológico de Monterrey" class="clientes" /> </a>
-				</div>
-				<div class="col-sm-4">
- 					<a href="#" ><img src="imagenes/clientes/miguel-gutierrez-seguros.png" title="Miguel Guitierrez" alt="Miguel Guitierrez" class="clientes" /> </a>
+					<a href="https://www.facebook.com/GenesisComputacionPapeleria/?fref=ts" target="_blank"><img src="imagenes/clientes/logo_genesis_papeleria.png" title="Génesis Papeleria" alt="Génesis Papeleria" class="clientes" /> </a>
 				</div>
 			</div>
+
 			<div class="row">
-				<div class="col-sm-4"
- 					<a href="#" ><img src="imagenes/clientes/nac.png" title="NAC" alt="NAC" class="clientes" /> </a>
+				<div class="col-sm-4">
+ 					<a href="https://www.facebook.com/gasdematamoros" target="_blank" ><img src="imagenes/clientes/logo_gas_de matamoross-01.png" title="Gas de Matamoros" alt="Gas de Matamoros" class="clientes" /> </a>
 				</div>
 				<div class="col-sm-4">
-					<a href="#" ><img src="imagenes/clientes/nca.png" title="NCA" alt="NCA" class="clientes" /> </a>
+ 					<a href="https://www.facebook.com/TecnicopiasMatamoros" target="_blank" ><img src="imagenes/clientes/logo_tecnicopias.png" title="Tecnicopias" alt="Tecnicopias" class="clientes" /> </a>
 				</div>
 				<div class="col-sm-4">
- 					<a href="#" ><img src="imagenes/clientes/santa-maria.png" title="Santa María" alt="Santa María" class="clientes" /> </a>
+ 					<img src="imagenes/clientes/centro-de-idiomas-del-tec-de-monterrey.png" title="Centro de Idiomas del Tecnológico  de Monterrey" alt="Centro de Idiomas del Tecnológico  de Monterrey" class="clientes" />
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-sm-4">
- 					<a href="#" ><img src="imagenes/clientes/sazon-latino.png" title="Sazón Latino" alt="Sazón Latino" class="clientes" /> </a>
+ 					<img src="imagenes/clientes/educacion-ejecutiva-del-tecnologico-de-monterrey.png" title="Educación Ejecutiva del Tecnológico de Monterrey" alt="Educación Ejecutiva del Tecnológico de Monterrey" class="clientes" />
+				</div>
+				<div class="col-sm-4">
+ 					<img src="imagenes/clientes/miguel-gutierrez-seguros.png" title="Miguel Guitierrez" alt="Miguel Guitierrez" class="clientes" />
+				</div>
+				<div class="col-sm-4">
+ 					<img src="imagenes/clientes/nac.png" title="NAC" alt="NAC" class="clientes" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-4">
+ 					<img src="imagenes/clientes/nca.png" title="NCA" alt="NCA" class="clientes" />
+				</div>
+				<div class="col-sm-4">
+					<img src="imagenes/clientes/santa-maria.png" title="Santa María" alt="Santa María" class="clientes" />
+				</div>
+				<div class="col-sm-4">
+ 					<img src="imagenes/clientes/sazon-latino.png" title="Sazón Latino" alt="Sazón Latino" class="clientes" />
 				</div>
 			</div>
 		</div>
 		</article>
-
 	</div>
-
-
 </div>
 <?php require 'footer.view.php' ?>
