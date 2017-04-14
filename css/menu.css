@@ -86,11 +86,20 @@ header nav ul li:hover {
 	}
 	.navbar-default { /*Change the color of navbar on mobile*/
 		background-color: rgba(39, 52, 138, 0.3);
-   	margin-top:15px;
+
 		margin-right:0%;
 	}
 	.navbar-toggle{
 		background-color: #27348A;
+	}
+	.navbar-default .navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:hover,
+	.navbar-default .navbar-nav > .active > a:focus {
+
+		border-radius: 20px 20px 20px 20px;
+	}
+	header nav ul li {
+		border-radius: 20px 20px 20px 20px;
 	}
 }
 
