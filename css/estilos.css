@@ -38,7 +38,15 @@ color:#27348A;
 .clientes {
 	height: 80%;
   width: 	80%;
+
 }
+.imgcenter{
+	display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+
 
 /* --- Text & align --- */
 a:hover {

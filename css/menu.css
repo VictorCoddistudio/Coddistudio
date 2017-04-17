@@ -86,7 +86,6 @@ header nav ul li:hover {
 	}
 	.navbar-default { /*Change the color of navbar on mobile*/
 		background-color: rgba(39, 52, 138, 0.3);
-
 		margin-right:0%;
 	}
 	.navbar-toggle{
