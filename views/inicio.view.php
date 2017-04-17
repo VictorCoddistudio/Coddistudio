@@ -6,7 +6,7 @@
 <?php include 'menu.view.php'; ?>
 
 	<div class="container">
-		<img src="imagenes/logocoddistudioportada.png" title="Coddistudio" alt="Coddistudio" id="portada" class="img-responsive OnePicture" />
+		<img src="imagenes/logocoddistudioportada.png" title="Coddistudio" alt="Coddistudio" id="portada" class="img-responsive center-block" />
 	</div>
 
 <?php include 'footer.view.php'; ?>
