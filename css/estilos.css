@@ -53,6 +53,10 @@ a:hover {
 	text-decoration: underline;
 }
 
+.textContacto{
+     color: #27348A;
+		 font-size: 18px;
+}
 
 
 /* --- Footer --- */
@@ -113,7 +117,7 @@ footer p{
 .modalbodytext{
 	font-size: 14px;
 	line-height: 200%;
-	
+
 	text-align: center;
 	background-image: url("../imagenes/fondo-modales.png");
 	background-size: cover;

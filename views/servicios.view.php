@@ -25,7 +25,7 @@
 						<!-- Modal content-->
 						<div class="modal-content">
 							<div class="modal-header modalheaderblue">
-								<button type="button" class="close btn-primary" data-dismiss="modal">&times;</button>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
 								<h4 class="modal-title modaltitleblue">Diseño Gráfico y Publicidad</h4>
 							</div>
 							<div class="modal-body modalbodytext">
@@ -54,7 +54,7 @@
 						<!-- Modal content-->
 						<div class="modal-content">
 							<div class="modal-header modalheaderblue">
-								<button type="button" class="close btn-primary" data-dismiss="modal">&times;</button>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
 								<h4 class="modal-title modaltitleblue">Desarrollo Web</h4>
 							</div>
 							<div class="modal-body modalbodytext">
@@ -83,7 +83,7 @@
 						<!-- Modal content-->
 						<div class="modal-content">
 							<div class="modal-header modalheaderblue">
-								<button type="button" class="close btn-primary" data-dismiss="modal">&times;</button>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
 								<h4 class="modal-title modaltitleblue">Fotografía y Video</h4>
 							</div>
 							<div class="modal-body modalbodytext">
@@ -116,7 +116,7 @@
 						<!-- Modal content-->
 						<div class="modal-content">
 							<div class="modal-header modalheaderblue">
-								<button type="button" class="close btn-primary" data-dismiss="modal">&times;</button>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
 								<h4 class="modal-title modaltitleblue">Mantenimiento</h4>
 							</div>
 							<div class="modal-body modalbodytext">
@@ -146,7 +146,7 @@
 						<!-- Modal content-->
 						<div class="modal-content">
 							<div class="modal-header modalheaderblue">
-								<button type="button" class="close btn-primary" data-dismiss="modal">&times;</button>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
 								<h4 class="modal-title modaltitleblue">Marketing Digital</h4>
 							</div>
 							<div class="modal-body modalbodytext">
