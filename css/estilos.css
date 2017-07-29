@@ -105,6 +105,24 @@ footer p{
 	background-color:#27348A;
 	opacity: 0.7;
 }
+/* --- Modals --- */
+.modaltitleblue{
+	font-weight: bold;
+	color: #27348A;
+}
+.modalbodytext{
+	font-size: 14px;
+	line-height: 200%;
+	
+	text-align: center;
+	background-image: url("../imagenes/fondo-modales.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+
 
 @media screen and (max-width: 800px) {
 body {
