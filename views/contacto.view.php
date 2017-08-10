@@ -70,7 +70,7 @@
 		</div>
 		<div class="row imgcenter">
 			<div class="col-sm-12">
-					//PONER MAPA AQUI
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3590.4290860985147!2d-97.54539198538968!3d25.85535148359434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x866f9348f16e8b83%3A0x70635a42dc66abfb!2sUniversidad+Aut%C3%B3noma+de+Tamaulipas+25%2C+Nuevo+Milenio%2C+87347+Matamoros%2C+Tamps.!5e0!3m2!1ses-419!2smx!4v1501516119540" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>
