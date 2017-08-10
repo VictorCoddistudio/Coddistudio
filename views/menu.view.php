@@ -12,7 +12,7 @@
 				<ul class="nav navbar-nav navbar-right">
 					<li> <a href="index.php">&nbsp; INICIO &nbsp;</a> </li>
 					<li> <a href="quienes.php">&nbsp; ¿QUIÉNES SOMOS? &nbsp;</a> </li>
-					<li><a href="EnConstruccion.php">&nbsp; PORTAFOLIO &nbsp;</a>	</li>
+					<li><a href="portafolio.php">&nbsp; PORTAFOLIO &nbsp;</a>	</li>
 					<li><a href="servicios.php">&nbsp; SERVICIOS &nbsp;</a> </li>
 					<li><a href="clientes.php">&nbsp; CLIENTES &nbsp;</a> </li>
 					<li><a href="contacto.php">&nbsp; CONTACTO &nbsp;</a>
