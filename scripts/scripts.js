@@ -3,14 +3,14 @@
         they just need to have separate IDs
       */
 			//la piragua express
-	  $('#slides2').slidesjs({
-        width: 516,
-        height: 347,
-        navigation: false,
-				start: 1,
-				play:{
-					auto: true
-				}
+	  $('#slides1').slidesjs({
+			width: 792,
+			height: 350,
+			navigation: false,
+			start: 1,
+			play: {
+				auto: true
+			}
       });
 
 

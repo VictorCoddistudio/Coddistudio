@@ -20,12 +20,27 @@
 			</div>
 			<div class="row">
 				<div id="slides" class="slidesContainerIndex" >
-		      <a href="http://www.lapiraguarestaurante.com/" target="_blank"><img src="imagenes/portada/laPiraguaRestaurante.png" title="La Piragua Restaurante" alt="La Piragua Restaurante"/></a>
-		      <a href="http://www.somosmecatronica.com/registrate.php" target="_blank"><img src="imagenes/portada/somosmecatronica.png" title="Somos Mecatronica" alt="Somos Mecatronica"/></a>
+		      <a href="http://www.lapiraguarestaurante.com/" target="_blank"><img src="imagenes/sliders/laPiraguaRestaurante.png" title="La Piragua Restaurante" alt="La Piragua Restaurante"/></a>
+		      <a href="http://www.somosmecatronica.com/registrate.php" target="_blank"><img src="imagenes/sliders/somosmecatronica.png" title="Somos Mecatronica" alt="Somos Mecatronica"/></a>
 		      <a href="#" class="slidesjs-previous slidesjs-navigation"><i class="fa fa-chevron-left"></i></a>
 		      <a href="#" class="slidesjs-next slidesjs-navigation"><i class="fa fa-chevron-right"></i></a>
 		    </div>
 			</div>
+			<!--
+			<div class="row imgcenter">
+				<div class="col-sm-4 textContacto">
+					Fotografía y Video
+				</div>
+			</div>
+			<div class="row">
+				<div id="slides1" class="slidesContainerIndex" >
+		      <img src="imagenes/sliders/marvic.png" title="MV" alt="Marvic"/></a>
+		      <img src="imagenes/sliders/marvic.png" title="TMV" alt="Marvic"/></a>
+		      <a href="#" class="slidesjs-previous slidesjs-navigation"><i class="fa fa-chevron-left"></i></a>
+		      <a href="#" class="slidesjs-next slidesjs-navigation"><i class="fa fa-chevron-right"></i></a>
+		    </div>
+			</div>
+		-->
 		</div>
 	</div>
 

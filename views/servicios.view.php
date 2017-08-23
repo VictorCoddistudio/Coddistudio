@@ -61,7 +61,7 @@
 								<br>
 								¿Tu empresa aún no cuenta con una página web profesional? No esperes más y deja que Coddistudio construya el sitio web que tu empresa necesita y que además luzca estupendo en dispositivos móviles.
 								<br>
-								<img src="imagenes/servicios/diseno.png" title="Diseño y Publicidad" alt="Diseño y Publicidad" class="clientes img-responsive center-block"/>
+								<img src="imagenes/servicios/diseno-web.png" title="Diseño y Publicidad" alt="Diseño y Publicidad" class="clientes img-responsive center-block"/>
 							</div>
 						<div class="modal-footer">
 							<button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
@@ -92,7 +92,7 @@
 								Olvida la preocupación de tomar fotos y videos en tus eventos especiales y preocuparte por si no se ven como esperabas.<br>
 								Permite que Coddistudio se encargue del trabajo pesado y solo preocupate de vivir el momento.
 								<br>
-								<img src="imagenes/servicios/diseno.png" title="Diseño y Publicidad" alt="Diseño y Publicidad" class="clientes img-responsive center-block"/>
+								<img src="imagenes/servicios/fotografia-y-video.png" title="Diseño y Publicidad" alt="Diseño y Publicidad" class="clientes img-responsive center-block"/>
 							</div>
 						<div class="modal-footer">
 							<button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
@@ -124,7 +124,7 @@
 								Deja que Coddistudio se encargue de mantener tu sitio web actualizado, para que refleje los cambios más recientes de tu compañia.<br>
 								Manten a tus clientes al día e informados de tus productos, servicios y nuevas promociones.
 								<br>
-								<img src="imagenes/servicios/diseno.png" title="Diseño y Publicidad" alt="Diseño y Publicidad" class="clientes img-responsive center-block"/>
+								<img src="imagenes/servicios/mantenimiento.png" title="Diseño y Publicidad" alt="Diseño y Publicidad" class="clientes img-responsive center-block"/>
 							</div>
 						<div class="modal-footer">
 							<button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
@@ -153,7 +153,7 @@
 								<br>
 								Ayuda a tus clientes a encontrarte con nuestro servicio de marketing digital, te ayudaremos a manejar tus cuentas para tener una fuerte presencia en las redes sociales más populares como Facebook y Twitter.
 								<br>
-								<img src="imagenes/servicios/diseno.png" title="Diseño y Publicidad" alt="Diseño y Publicidad" class="clientes img-responsive center-block"/>
+								<img src="imagenes/servicios/marketing-digital.png" title="Diseño y Publicidad" alt="Diseño y Publicidad" class="clientes img-responsive center-block"/>
 							</div>
 						<div class="modal-footer">
 							<button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
